@@ -51,17 +51,16 @@ img{
 #paragraph{
     margin-left:40px;
 }
-@media screen and (max-width:560px){
-    #paragraph{
-        margin-left:10px;
-    }
-}
 @media screen and (max-width:1280px){
     #paragraph{
         margin-left:30px;
     }
 }
-
+@media screen and (max-width:560px){
+    #paragraph{
+        margin-left:10px;
+    }
+}
 .heading{
     color:green;
     margin-top:20px;
